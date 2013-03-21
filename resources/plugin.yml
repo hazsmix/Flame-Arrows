@@ -1,0 +1,8 @@
+name: Flame Arrows
+main: me.hsmithers.FlameArrows
+version: 0.1
+
+permissions:
+    flamearrows.ignite:
+        description: Allows a player to ignite blocks with flaming arrows
+        default: op
