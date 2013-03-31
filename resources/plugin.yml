@@ -1,6 +1,6 @@
-name: Flame Arrows
+name: FlameArrows
 main: me.hsmithers.FlameArrows
-version: 0.1
+version: 0.0.1
 
 permissions:
     flamearrows.ignite:
